@@ -1,4 +1,5 @@
 #  devops-capstone-project
+[![CI Workflow](https://github.com/HAMZAKM1/devops-capstone-project/actions/workflows/ci.yml/badge.svg)](https://github.com/HAMZAKM1/devops-capstone-project/actions/workflows/ci.yml)
 Customer Account REST API Microservices Capstone Project implementation using Flask, Docker, Kubernetes, and CI/CD pipelines.
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
